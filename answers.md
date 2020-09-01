@@ -55,3 +55,35 @@ Author: Arabella Hunt <ah921918@ohio.edu>
 Date:   Tue Sep 1 16:50:22 2020 -0400
 
     Initial commit
+Answer 8
+ commit 6475bcc04daca0e7f8fa9c1b8784de075d60f1be (HEAD -> master)
+Author: Arabella Hunt <ah921918@ohio.edu>
+Date:   Tue Sep 1 16:50:22 2020 -0400
+
+    Initial commit
+Answer 9
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    README.md
+        modified:   git-lab/answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        first-project/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 10
+No
+Answer 11
+Answer 12
+Yes
+Answer 13
+Directory: C:\Users\arabe\Desktop\cs2400\labs\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d--h--         9/1/2020   5:21 PM                .git
+
